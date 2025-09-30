@@ -1,2 +1,2 @@
 # odin-recipes
-Foundations Course assigmenT
+Foundations Course assigment
